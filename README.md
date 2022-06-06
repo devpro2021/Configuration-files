@@ -19,6 +19,7 @@ format - форматирует все файлы с помощью prettier
 precommit - запускает lint-staged
 "precommit": "lint-staged",
 
+```
 "lint-staged": {
     "*.{js, jsx}": [
       "npm run lint",
@@ -27,3 +28,4 @@ precommit - запускает lint-staged
       "git add"
     ]
   }
+```
