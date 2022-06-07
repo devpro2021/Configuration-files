@@ -16,8 +16,8 @@ lint:fix - проверяет и исправляет те ошибки, кот�
 format - форматирует все файлы с помощью prettier
 "format": "prettier --write ./src",
 
-precommit - запускает lint-staged
-"precommit": "lint-staged",
+форматирование css
+"stylelint": "stylelint \"**/*.css\" --fix" 
 
 ```
 "lint-staged": {
