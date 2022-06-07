@@ -2,7 +2,7 @@
 
 Устанавливаем пакеты
 ---
-npm i -D eslint eslint-config-airbnb eslint-config-prettier eslint-plugin-import eslint-plugin-jsx-a11y eslint-plugin-prettier eslint-plugin-react eslint-plugin-react-hooks babel-eslint prettier husky lint-staged
+npm i -D eslint eslint-config-airbnb eslint-config-prettier eslint-plugin-import eslint-plugin-jsx-a11y eslint-plugin-prettier eslint-plugin-react eslint-plugin-react-hooks babel-eslint prettier husky lint-staged stylelint stylelint-config-standard stylelint-order
 
 Добавьте в ваш package.json скрипты
 ---
