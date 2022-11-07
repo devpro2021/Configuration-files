@@ -2,7 +2,7 @@
 
 Устанавливаем пакеты
 ---
-npm i -D eslint eslint-config-airbnb eslint-config-prettier eslint-plugin-import eslint-plugin-jsx-a11y eslint-plugin-prettier eslint-plugin-react eslint-plugin-react-hooks babel-eslint prettier husky lint-staged stylelint stylelint-order stylelint-order-config-standard stylelint-config-standard
+npm i -D eslint eslint-config-airbnb eslint-config-prettier eslint-plugin-import eslint-plugin-jsx-a11y eslint-plugin-prettier eslint-plugin-react eslint-plugin-react-hooks babel-eslint prettier husky lint-staged stylelint stylelint-order stylelint-order-config-standard stylelint-config-standard prettier @trivago/prettier-plugin-sort-imports
 
 Добавьте в ваш package.json скрипты
 ---
